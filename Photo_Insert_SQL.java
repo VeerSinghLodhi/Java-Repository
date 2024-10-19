@@ -1,5 +1,3 @@
-
-package example_jdbc;
 import java.awt.Font;
 import java.awt.Image;
 import java.awt.event.ActionEvent;
@@ -84,14 +82,14 @@ public class Photo_Insert_SQL extends JFrame implements ActionListener,FocusList
         }
     }    
     void getConnection(){
-        try{
+        /*try{
             DriverManager.registerDriver(new oracle.jdbc.OracleDriver());
             c=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:XE","system","veer6264");
             s1=c.createStatement();
         }
         catch(SQLException e){
             JOptionPane.showMessageDialog(null,"Error is "+e,"Error!!",0);
-        }
+        }*/
     }
     @Override
     public void actionPerformed(ActionEvent ae){
