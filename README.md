@@ -1,5 +1,7 @@
 # Java OOP Concepts Repository
 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
+
 Welcome to the Java OOP Concepts repository! This repository contains examples, explanations, and implementations of core Object-Oriented Programming (OOP) concepts in Java. It is a great resource for understanding and mastering OOP principles.
 
 ---
