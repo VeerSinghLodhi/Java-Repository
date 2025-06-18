@@ -10,6 +10,11 @@ public class Main {
         };
         int res=obj.sum(10,20);
         System.out.println("Sum is "+res);
+
+         // Lamda Expression
+        SumInter obj2=((a,b)->{return a+b;});
+        res=obj2.sum(30,20);
+        System.out.println("Sum is "+res);
     }
     
 }
